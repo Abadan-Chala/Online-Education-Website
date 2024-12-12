@@ -94,7 +94,7 @@ section{
 }
 .header .flex .navbar a{
     margin-left: 2rem;
-    color: var(--light-white);
+    color: var(--white);
     font-size: 2rem;
 }
 .header .flex .navbar a:hover{
